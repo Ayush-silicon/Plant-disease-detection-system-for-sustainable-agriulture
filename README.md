@@ -1,1 +1,1 @@
-# Plant-disease-detection-system-for-sustainable-agriulture-Week-1-Project-Submission
+# Plant-disease-detection-system-for-sustainable-agriulture-Project-Submission
