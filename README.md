@@ -23,7 +23,7 @@ A deep learning-based web application that identifies plant diseases from leaf i
 
 | Upload Leaf Image | Prediction |
 |-------------------|------------|
-| ![Leaf](https://github.com/Ayush-silicon/Plant-disease-detection-system-for-sustainable-agriulture/assets/leaf-sample.jpg) | `Apple Scab (Confidence: 97%)` |
+| ![Leaf]("C:\Users\Ayush Singh\Downloads\Edunet-Internship\apple scap.jpeg") | `Apple Scab (Confidence: 97%)` |
 
 ---
 
