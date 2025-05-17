@@ -23,7 +23,8 @@ A deep learning-based web application that identifies plant diseases from leaf i
 
 | Upload Leaf Image | Prediction |
 |-------------------|------------|
-| ![Leaf]("C:\Users\Ayush Singh\Downloads\Edunet-Internship\apple scap.jpeg") | `Apple Scab (Confidence: 97%)` |
+| ![Leaf]("![apple scap](https://github.com/user-attachments/assets/146d9c9f-45ea-4145-b54e-9866a3c9d00a)
+") | `Apple Scab (Confidence: 97%)` |
 
 ---
 
