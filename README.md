@@ -58,7 +58,7 @@ graph TD
     C --> D{Healthy or Diseased?}
     D -->|Healthy| E[Result: Healthy Leaf ✅]
     D -->|Diseased| F[Result: Disease Type + Cure ⚠️]
-
+```
 🚀 Getting Started
 
 # 1. Clone this repo
